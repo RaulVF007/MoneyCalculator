@@ -1,0 +1,33 @@
+﻿EUR,Euro,€
+USD,Dólar,$
+GBP,Libra,£
+JPY,Yen,¥
+BGN,Lev,лв
+CZK,Corona checa,kč
+DKK,Corona danesa,kr
+HUF,Forinto húngaro,Ft
+PLN,Złoty,zł
+RON,Leu rumano,L
+SEK,Corona sueca,kr
+CHF,Franco,fr
+ISK,Corona islandesa,kr
+NOK,Corona noruega,kr
+HRK,Kuna croata,kn
+RUB,Rublo,₽
+TRY,Lira,₺
+AUD,Dólar australiano,$
+BRL,Real brazileño,R$
+CAD,Dólar canadiense,$
+CNY,Yuan,¥
+HKD,Dólar de Hong Kong,HK$
+IDR,Rupia indonesa,Rp
+ILS,Sheqel,₪
+INR,Rupia india,₹
+KRW,Won surcoreano,₩
+MXN,Peso mexicano,$
+MYR,Ringgit,RM
+NZD,Dólar neozelandés,$
+PHP,Peso filipino,₱
+SGD,Dólar de singapur,$
+THB,Baht tailándes,฿
+ZAR,Rand,R
